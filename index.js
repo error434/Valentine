@@ -5,7 +5,6 @@ var noarr=
     'Pyaar nahi karti?  <i class="bi bi-emoji-frown"></i>',
     'Kya hua tera vada?',
     'Wo kasam wo irada?',
-    'You serious?',
     '👉👈',
     'Waffle khilaunga!!',
     'Yaar 🥺',
@@ -58,4 +57,5 @@ function showNoBtn()
 
 
 showNoBtn();
+
 
