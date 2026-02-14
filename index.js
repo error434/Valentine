@@ -5,11 +5,11 @@ var noarr=
     'Pyaar nahi karti?  <i class="bi bi-emoji-frown"></i>',
     'Kya hua tera vada?',
     'Wo kasam wo irada?',
-    '👉👈',
-    'Waffle khilaunga!!',
+    'You serious?',
+    '😭',
+    'Momos khilaunga!!',
     'Yaar 🥺',
     'Pleaseeeeeeeee',
-    'Mai ro dunga',
     'Bhadwi'
 ]
 
@@ -25,7 +25,7 @@ function success()
     successChange.innerHTML=
     `<h1 style='text-align:center'>Ok yay !!!</h1>`;
     gifimage.innerHTML=
-    `<div class="tenor-gif-embed" data-postid="11092575278240837627" data-share-method="host" width="370" height="230"><a href="https://tenor.com/view/thank-you-gif-11092575278240837627">`;
+    `<img src='https://tenor.com/nnAg8r4jIfL.gif'>`;
 }
 
 function failPile()
@@ -55,7 +55,4 @@ function showNoBtn()
     nobtn.innerHTML=noarr[i];
 }
 
-
 showNoBtn();
-
-
