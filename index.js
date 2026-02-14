@@ -23,7 +23,7 @@ function success()
 {
     const successChange=document.getElementById('successChange');
     successChange.innerHTML=
-    `<h1 style='text-align:center'>Ok yay !!!</h1>`;
+    `<h1 style='text-align:center'>Yayyyyyy !!!</h1>`;
     gifimage.innerHTML=
     `<img src='https://tenor.com/nnAg8r4jIfL.gif'>`;
 }
@@ -56,4 +56,5 @@ function showNoBtn()
 }
 
 showNoBtn();
+
 
