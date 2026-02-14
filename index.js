@@ -26,7 +26,7 @@ function success()
     successChange.innerHTML=
     `<h1 style='text-align:center'>Ok yay !!!</h1>`;
     gifimage.innerHTML=
-    `<img src='https://tenor.com/nnAg8r4jIfL.gif'>`;
+    `<div class="tenor-gif-embed" data-postid="11092575278240837627" data-share-method="host" width="370" height="230"><a href="https://tenor.com/view/thank-you-gif-11092575278240837627">`;
 }
 
 function failPile()
@@ -58,3 +58,4 @@ function showNoBtn()
 
 
 showNoBtn();
+
