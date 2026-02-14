@@ -6,10 +6,11 @@ var noarr=
     'Kya hua tera vada?',
     'Wo kasam wo irada?',
     'You serious?',
-    '😭',
-    'Momos khilaunga!!',
+    '👉👈',
+    'Waffle khilaunga!!',
     'Yaar 🥺',
     'Pleaseeeeeeeee',
+    'Mai ro dunga',
     'Bhadwi'
 ]
 
@@ -54,5 +55,6 @@ function showNoBtn()
 {
     nobtn.innerHTML=noarr[i];
 }
+
 
 showNoBtn();
