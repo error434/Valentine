@@ -6,8 +6,8 @@ var noarr=
     'Kya hua tera vada?',
     'Wo kasam wo irada?',
     'You serious?',
-    '😭',
-    'Momos khilaunga!!',
+    '👉👈',
+    'Waffle khilaungi!!',
     'Yaar 🥺',
     'Pleaseeeeeeeee',
     'Bhadwi'
@@ -56,3 +56,4 @@ function showNoBtn()
 }
 
 showNoBtn();
+
